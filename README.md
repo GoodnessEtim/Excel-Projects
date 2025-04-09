@@ -26,3 +26,6 @@ The data set includes 550 infants of which 192 have one sibling, 180 has no sibl
 
 There is a modest trend indicating that parity may influence infant weight. Gender-based differences are present but less pronounced. 
 
+<img width="1272" alt="Infant - Gender - Parity Dashboard" src="https://github.com/user-attachments/assets/bd3227c0-de7e-4976-9cda-22cd13499020" />
+
+
